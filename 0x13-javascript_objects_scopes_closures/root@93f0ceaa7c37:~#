@@ -1,0 +1,48 @@
+
+t@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures#
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures# ls
+0-main.js       1-rectangle.js  3-rectangle.js  README.md
+0-rectangle.js  2-rectangle.js  4-rectangle.js
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures# vim 4-rectangle.js
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures#
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures# semistandard 4-rectangle.js
+semistandard: Semicolons For All! (https://github.com/standard/semistandard)
+semistandard: Run `semistandard --fix` to automatically fix some problems.
+  /root/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/4-rectangle.js:10:1: Trailing spaces not allowed.
+  /root/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/4-rectangle.js:25:3: Expected blank line between class members.
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_
+semistandard: Semicolons For All! (https://github.com/standard/semistanda
+semistandard: Run `semistandard --fix` to automatically fix some problems
+  /root/alx-higher_level_programming/0x13-javascript_objects_scopes_closu
+  /root/alx-higher_level_programming/0x13-javascript_objects_scopes_closu
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_
+semistandard: Semicolons For All! (https://github.com/standard/semistanda
+semistandard: Run `semistandard --fix` to automatically fix some problems
+  /root/alx-higher_level_programming/0x13-javascript_objects_scopes_closu
+  /root/alx-higher_level_programming/0x13-javascript_objects_scopes_closu
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_
+Normal:
+XX
+XX
+XX
+Double:
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+XXXX
+Rotate:
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures#
+root@93f0ceaa7c37:~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures# v
+im
+
