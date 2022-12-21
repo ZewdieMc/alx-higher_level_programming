@@ -4,9 +4,7 @@
 // with Closure
 
 exports.converter = function (base) {
-  function myConverter (n) {
+  return function myConverter (n) {
     return n.toString(base);
   }
-
-  return myConverter;
 };
